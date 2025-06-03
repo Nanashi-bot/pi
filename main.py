@@ -17,7 +17,7 @@ def find_position_in_pi(seq):
 
 if __name__ == "__main__":
     #seq = input("Enter which number sequence you want to find in π: ")
-    seq = "123456789"
+    seq = "1239"
     if not seq.isdigit():
         print("Digits only!")
     else:
